@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom'
-import Navbar from './Navbar'
+import Navbar from './components/Navbar'
 import App from './App';
 import 'semantic-ui-css/semantic.min.css'
 import { Container } from 'semantic-ui-react';

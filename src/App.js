@@ -26,7 +26,7 @@ const App = () => {
     <div>
         {
           visible?
-          <Button icon="close" secondary onClick={changeState}></Button>
+          <Button icon="close" color="white" secondary onClick={changeState}></Button>
           :
           <Button secondary onClick={changeState}>
             <Icon  name="bars"></Icon>
